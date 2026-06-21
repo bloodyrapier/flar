@@ -642,7 +642,7 @@
         position: relative;
         overflow: hidden;
         margin-top: 20%;
-        padding: 2% 12%;
+        padding: 12% 12%;
         gap: 4vw;
     }
 
@@ -662,7 +662,7 @@
     .event-blind_photo{
         position: absolute;
         width: 84vw;
-        top: -1.5%;
+        top: 9%;
         left: 35%;
         z-index: -1;
     }
@@ -696,7 +696,7 @@
     .event-lecture_content {
         display: flex;
         flex-direction: column;
-        padding-top: 10%;
+        padding-top: 0;
     }
 
     .event-lecture_title {
