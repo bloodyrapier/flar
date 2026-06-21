@@ -297,7 +297,7 @@
     .method-block {
         display: flex;
         width: 100%;
-        padding: 6% 0 2% 0;
+        padding: 6vw 0 3vw 0;
     }
 
     .method-col {
