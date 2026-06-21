@@ -962,9 +962,8 @@ body {
 
 .event-blind {
   display: flex;
-  align-items: flex-end;
   justify-content: space-between;
-  padding: 2% 8%;
+  padding: 7% 8% 4% 8%;
   gap: 4vw;
 }
 
@@ -1025,7 +1024,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 5% 8%;
+  padding: 0 8%;
   gap: 4vw;
 }
 
@@ -1095,7 +1094,7 @@ body {
 .event-master {
   display: flex;
   align-items: center;
-  padding: 5% 8% 2% 8%;
+  padding: 9% 8% 2% 8%;
   gap: 16vw;
 }
 
