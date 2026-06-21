@@ -1003,7 +1003,7 @@
         font-family: 'InterRegular';
     }
     .stats-block_item {
-        flex: 0 0 50%;
+        flex: 0 0 49.9%;
         box-sizing: border-box;
     }
     .stats-block_item:nth-child(3),
