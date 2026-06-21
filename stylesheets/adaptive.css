@@ -993,7 +993,7 @@
         border-radius: 5vw;
     }
     .stats-block_item{
-        padding: 5%;
+        padding: 12%;
         box-sizing: border-box;
     }
     .stats-block_text p {
@@ -1012,6 +1012,7 @@
     }
     .stats-block_logo{
         width: 7vw;
+        align-self: center;
     }
 
     .stats-block::before {
