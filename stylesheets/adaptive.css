@@ -297,7 +297,7 @@
     .method-block {
         display: flex;
         width: 100%;
-        padding: 1% 0;
+        padding: 6% 0 2% 0;
     }
 
     .method-col {
@@ -320,7 +320,7 @@
     }
     .method-col:nth-child(2) {
         margin-right: 0;
-        padding-top: 12%;
+        padding-top: 8%;
     }
     .method-col:nth-child(3) {
         margin-right: 0;
@@ -329,7 +329,6 @@
     .method-col:nth-child(4) {
         margin-right: 0;
         padding-top: 8%;
-        background-color: aquamarine;
     }
 
     .history-block{
