@@ -977,9 +977,9 @@
         right: 51%;
     }
 
-
     .stats-block {
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         position: relative;
     }
 
@@ -994,7 +994,7 @@
     }
     .stats-block_item{
         padding: 5%;
-        gap: 10%;
+        box-sizing: border-box;
     }
     .stats-block_text p {
         font-size: 4vw;
