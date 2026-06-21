@@ -299,10 +299,7 @@
         width: 100%;
         padding: 1% 0;
     }
-    .method-col:nth-child(1) { padding-top: 0%; }
-    .method-col:nth-child(2) { padding-top: 5%; }
-    .method-col:nth-child(3) { padding-top: 8%; }
-    .method-col:nth-child(4) { padding-top: 8%; background-color: rgb(248, 201, 201); }
+
     .method-col {
         width: auto;
         padding-left: 15%;
@@ -323,15 +320,16 @@
     }
     .method-col:nth-child(2) {
         margin-right: 0;
-        margin-top: 5vw;
+        padding-top: 12%;
     }
     .method-col:nth-child(3) {
         margin-right: 0;
-        margin-top: 2vw;
+        padding-top: 9%;
     }
     .method-col:nth-child(4) {
         margin-right: 0;
-        margin-top: 2vw;
+        padding-top: 8%;
+        background-color: aquamarine;
     }
 
     .history-block{
