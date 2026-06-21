@@ -832,7 +832,6 @@ body {
 .events-container {
   display: flex;
   justify-content: center;
-  gap: 12vw;
   margin-top: -1vw;
 }
 
@@ -840,7 +839,7 @@ body {
   display: flex;
   flex-direction: column;
   padding-top: 6%;
-  margin-left: 1vw;
+  margin: 0 9vw 0 2vw;
   gap: 2.5vw;
 }
 
